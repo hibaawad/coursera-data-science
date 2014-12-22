@@ -78,7 +78,7 @@ For each record it is provided:
    Data consists of the feature columns, followed by the activity, and then the subject column.
 
 6. Descriptive names based on feature were given to all of the columns in the data set.  For the feature columns, names were manually created based on names from the original dataset's features.txt file. 
-7. 
+
 7. Activity values were changed from a code to a descriptive name.  The activity_labels.txt file from the original UCI Har Dataset contains the transformations.
 
 8. Data was summarized by averaging each feature's value for all subject/activity combinations.

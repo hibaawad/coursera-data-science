@@ -1,2 +1,2 @@
-coursera-data-science
+HUMAN ACTIVITY RECOGNITION USING SMARTPHONES
 =====================
